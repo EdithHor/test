@@ -1,6 +1,3 @@
 # test
 
 hallo
-
-tschüss
-
